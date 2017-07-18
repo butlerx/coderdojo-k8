@@ -1,12 +1,12 @@
 # Kubernetes
 
-- [ToDo](todo)
-- [Setup](setup) - How the aws k8 is setup, including scaling
-- [Services](services) - Adding services and containers
-- [Deployment](deployment) - How services are deployed
-- [Building](building) - How Services are built
-- [Pipeline](pipeline) - How code gets from github => aws, including circleci, docker and k8
-- [Network](network) - Network diagram, how the containers communicate
+- [ToDo](todo.md)
+- [Setup](setup.md) - How the aws k8 is setup, including scaling
+- [Services](services.md) - Adding services and containers
+- [Deployment](deployment.md) - How services are deployed
+- [Building](building.md) - How Services are built
+- [Pipeline](pipeline.md) - How code gets from github => aws, including circleci, docker and k8
+- [Network](network.md) - Network diagram, how the containers communicate
 
 ## Resources
 

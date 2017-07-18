@@ -12,7 +12,7 @@
   - [ ] events
   - [ ] eventbrite
   - [ ] badges
-- [.] Docs
+- [ ] Docs
   - [X] Setup
   - [ ] Container managment
   - [ ] Adding containers/services
