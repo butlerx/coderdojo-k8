@@ -44,6 +44,8 @@ digraph coderdojo {
 }
 ```
 
+![network](./network.svg)
+
 ## Public Facing
 
 cp-zen-platform is the only service that should be public facing.
