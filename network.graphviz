@@ -1,0 +1,51 @@
+digraph coderdojo {
+    # Style
+    rankdir=LR
+    nodesep=1.0;
+    node [color=green,fontname=Courier,shape=Mrecord,style=filled];
+    edge [color=Blue, style=dashed];
+
+    # Microservices
+    zen[label="cp-zen-platform | hapi | api"]
+    badges[label="cp-badges-service | seneca"]
+    dojos[label="cp-dojos-service | seneca"]
+    eventbrite[label="cp-eventbrite-service | seneca"]
+    events[label="cp-events-service | seneca"]
+    orgs[label="cp-organisations-service | seneca"]
+    users[label="cp-users-service | seneca"]
+
+    # Frontends
+    frontend1[label="cp-zen-platform/web | angular 1" color=lightblue]
+    frontend2[label="cp-frontend | veu.js" color=lightblue]
+    forumn[label="Forumn | nodebb" color=lightblue]
+    ninja[label="Ninja forumn | nodebb" color=lightblue]
+    wordpress[label="cd-theme | wordpress" color=lightblue]
+
+    # DataBases
+    badgekit[label="Mozilla badgekit" color=orange]
+    openbadger[label="Mozilla open badger" color=orange]
+    dojodb[label="Dojos Database | postgresql" color=purple]
+    eventdb[label="Events Database | postgresql" color=purple]
+    forumndb[label="Forumn Database | redis" color=red]
+    queue[label="Message queue | seneca queue | redis" color=red]
+    userdb[label="User Database | postgresql" color=purple]
+    wpdb[label="Wordpress Database | mysql" color=yellow]
+    badgedb[label="Badges Database | mysql" color=yellow]
+
+    # Connections
+    badges -> { dojos events users badgekit }
+    badgekit -> openbadger
+    openbadger -> badgedb
+    dojos -> { users events dojodb queue }
+    eventbrite -> { dojos events }
+    events -> { dojos badges users eventdb queue }
+    orgs -> { users }
+    users ->{ dojos badges userdb }
+    wordpress -> { zen wpdb }
+    zen -> { events users dojos badges eventbrite orgs } [color=red];
+    { frontend1 frontend2 } -> zen
+    { ninja forumn } -> { zen forumndb }
+
+    {rank=same; userdb dojodb eventdb badgekit wpdb forumndb};
+    {rank=same; wordpress frontend1 frontend2 ninja forumn }
+}

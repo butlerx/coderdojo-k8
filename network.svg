@@ -1,310 +1,384 @@
-<svg width="1327pt" height="1421pt" viewBox="0.00 0.00 1327.03 1420.60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1416.6)">
+<svg width="1817pt" height="1665pt" viewBox="0.00 0.00 1817.37 1664.60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1660.6)">
 <title>coderdojo</title>
-<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-1416.6 1323.0348,-1416.6 1323.0348,4 -4,4"></polygon>
-<!-- events -->
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-1660.6 1813.3704,-1660.6 1813.3704,4 -4,4"></polygon>
+<!-- zen -->
 <g id="node1" class="node">
-<title>events</title>
-<path fill="#00ff00" stroke="#00ff00" d="M401.5524,-964.5C401.5524,-964.5 536.3286,-964.5 536.3286,-964.5 542.3286,-964.5 548.3286,-970.5 548.3286,-976.5 548.3286,-976.5 548.3286,-1002.1 548.3286,-1002.1 548.3286,-1008.1 542.3286,-1014.1 536.3286,-1014.1 536.3286,-1014.1 401.5524,-1014.1 401.5524,-1014.1 395.5524,-1014.1 389.5524,-1008.1 389.5524,-1002.1 389.5524,-1002.1 389.5524,-976.5 389.5524,-976.5 389.5524,-970.5 395.5524,-964.5 401.5524,-964.5"></path>
-<text text-anchor="middle" x="468.9405" y="-997.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">cp-events-service</text>
-<polyline fill="none" stroke="#00ff00" points="389.5524,-989.3 548.3286,-989.3 "></polyline>
-<text text-anchor="middle" x="468.9405" y="-972.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">seneca</text>
-</g>
-<!-- dojos -->
-<g id="node2" class="node">
-<title>dojos</title>
-<path fill="#00ff00" stroke="#00ff00" d="M596.3286,-864.5C596.3286,-864.5 722.7062,-864.5 722.7062,-864.5 728.7062,-864.5 734.7062,-870.5 734.7062,-876.5 734.7062,-876.5 734.7062,-902.1 734.7062,-902.1 734.7062,-908.1 728.7062,-914.1 722.7062,-914.1 722.7062,-914.1 596.3286,-914.1 596.3286,-914.1 590.3286,-914.1 584.3286,-908.1 584.3286,-902.1 584.3286,-902.1 584.3286,-876.5 584.3286,-876.5 584.3286,-870.5 590.3286,-864.5 596.3286,-864.5"></path>
-<text text-anchor="middle" x="659.5174" y="-897.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">cp-dojos-service</text>
-<polyline fill="none" stroke="#00ff00" points="584.3286,-889.3 734.7062,-889.3 "></polyline>
-<text text-anchor="middle" x="659.5174" y="-872.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">seneca</text>
-</g>
-<!-- events&#45;&gt;dojos -->
-<g id="edge22" class="edge">
-<title>events-&gt;dojos</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M485.8529,-964.2379C506.0037,-945.6289 541.1583,-923.6259 574.591,-907.0052"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="576.4866,-909.9761 583.9611,-902.4673 573.4355,-903.676 576.4866,-909.9761"></polygon>
-</g>
-<!-- users -->
-<g id="node3" class="node">
-<title>users</title>
-<path fill="#00ff00" stroke="#00ff00" d="M782.7062,-596.5C782.7062,-596.5 909.0838,-596.5 909.0838,-596.5 915.0838,-596.5 921.0838,-602.5 921.0838,-608.5 921.0838,-608.5 921.0838,-634.1 921.0838,-634.1 921.0838,-640.1 915.0838,-646.1 909.0838,-646.1 909.0838,-646.1 782.7062,-646.1 782.7062,-646.1 776.7062,-646.1 770.7062,-640.1 770.7062,-634.1 770.7062,-634.1 770.7062,-608.5 770.7062,-608.5 770.7062,-602.5 776.7062,-596.5 782.7062,-596.5"></path>
-<text text-anchor="middle" x="845.895" y="-629.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">cp-users-service</text>
-<polyline fill="none" stroke="#00ff00" points="770.7062,-621.3 921.0838,-621.3 "></polyline>
-<text text-anchor="middle" x="845.895" y="-604.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">seneca</text>
-</g>
-<!-- events&#45;&gt;users -->
-<g id="edge23" class="edge">
-<title>events-&gt;users</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M483.8132,-964.2265C504.1278,-931.0975 542.7999,-871.855 584.3286,-828.3 652.0392,-757.2855 744.7009,-689.5965 799.6245,-651.9393"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="801.8145,-654.6822 808.1058,-646.1575 797.8716,-648.8983 801.8145,-654.6822"></polygon>
+<title>zen</title>
+<path fill="#00ff00" stroke="#00ff00" d="M223.5734,-572.1C223.5734,-572.1 341.5524,-572.1 341.5524,-572.1 347.5524,-572.1 353.5524,-578.1 353.5524,-584.1 353.5524,-584.1 353.5524,-634.5 353.5524,-634.5 353.5524,-640.5 347.5524,-646.5 341.5524,-646.5 341.5524,-646.5 223.5734,-646.5 223.5734,-646.5 217.5734,-646.5 211.5734,-640.5 211.5734,-634.5 211.5734,-634.5 211.5734,-584.1 211.5734,-584.1 211.5734,-578.1 217.5734,-572.1 223.5734,-572.1"></path>
+<text text-anchor="middle" x="282.5629" y="-629.9" font-family="Courier,monospace" font-size="14.00" fill="#000000">cp-zen-platform</text>
+<polyline fill="none" stroke="#00ff00" points="211.5734,-621.7 353.5524,-621.7 "></polyline>
+<text text-anchor="middle" x="282.5629" y="-605.1" font-family="Courier,monospace" font-size="14.00" fill="#000000">hapi</text>
+<polyline fill="none" stroke="#00ff00" points="211.5734,-596.9 353.5524,-596.9 "></polyline>
+<text text-anchor="middle" x="282.5629" y="-580.3" font-family="Courier,monospace" font-size="14.00" fill="#000000">api</text>
 </g>
 <!-- badges -->
-<g id="node4" class="node">
+<g id="node2" class="node">
 <title>badges</title>
-<path fill="#00ff00" stroke="#00ff00" d="M969.0838,-730.5C969.0838,-730.5 1103.86,-730.5 1103.86,-730.5 1109.86,-730.5 1115.86,-736.5 1115.86,-742.5 1115.86,-742.5 1115.86,-768.1 1115.86,-768.1 1115.86,-774.1 1109.86,-780.1 1103.86,-780.1 1103.86,-780.1 969.0838,-780.1 969.0838,-780.1 963.0838,-780.1 957.0838,-774.1 957.0838,-768.1 957.0838,-768.1 957.0838,-742.5 957.0838,-742.5 957.0838,-736.5 963.0838,-730.5 969.0838,-730.5"></path>
-<text text-anchor="middle" x="1036.4719" y="-763.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">cp-badges-service</text>
-<polyline fill="none" stroke="#00ff00" points="957.0838,-755.3 1115.86,-755.3 "></polyline>
-<text text-anchor="middle" x="1036.4719" y="-738.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">seneca</text>
-</g>
-<!-- events&#45;&gt;badges -->
-<g id="edge24" class="edge">
-<title>events-&gt;badges</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M547.6577,-1014.2455C559.4895,-1020.9787 571.9024,-1027.4125 584.3286,-1032.3 724.092,-1087.2714 799.0482,-1147.8384 921.0838,-1060.3 967.8894,-1026.7255 1007.115,-864.7072 1025.4097,-790.0603"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="1028.8624,-790.6761 1027.8508,-780.1297 1022.0648,-789.005 1028.8624,-790.6761"></polygon>
-</g>
-<!-- eventdb -->
-<g id="node11" class="node">
-<title>eventdb</title>
-<path fill="#a020f0" stroke="#a020f0" d="M1176.4579,-1362.5C1176.4579,-1362.5 1294.4369,-1362.5 1294.4369,-1362.5 1300.4369,-1362.5 1306.4369,-1368.5 1306.4369,-1374.5 1306.4369,-1374.5 1306.4369,-1400.1 1306.4369,-1400.1 1306.4369,-1406.1 1300.4369,-1412.1 1294.4369,-1412.1 1294.4369,-1412.1 1176.4579,-1412.1 1176.4579,-1412.1 1170.4579,-1412.1 1164.4579,-1406.1 1164.4579,-1400.1 1164.4579,-1400.1 1164.4579,-1374.5 1164.4579,-1374.5 1164.4579,-1368.5 1170.4579,-1362.5 1176.4579,-1362.5"></path>
-<text text-anchor="middle" x="1235.4474" y="-1395.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">Events Database</text>
-<polyline fill="none" stroke="#a020f0" points="1164.4579,-1387.3 1306.4369,-1387.3 "></polyline>
-<text text-anchor="middle" x="1235.4474" y="-1370.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">postgresql</text>
-</g>
-<!-- events&#45;&gt;eventdb -->
-<g id="edge25" class="edge">
-<title>events-&gt;eventdb</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M476.5063,-1014.3466C490.643,-1056.8894 525.1172,-1143.2225 584.3286,-1190.3 756.0755,-1326.8516 1021.4679,-1368.9607 1154.1301,-1381.7873"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="1153.9417,-1385.2849 1164.2242,-1382.7313 1154.5936,-1378.3153 1153.9417,-1385.2849"></polygon>
-</g>
-<!-- queue -->
-<g id="node14" class="node">
-<title>queue</title>
-<path fill="#ff0000" stroke="#ff0000" d="M795.3041,-1010.5C795.3041,-1010.5 896.4859,-1010.5 896.4859,-1010.5 902.4859,-1010.5 908.4859,-1016.5 908.4859,-1022.5 908.4859,-1022.5 908.4859,-1048.1 908.4859,-1048.1 908.4859,-1054.1 902.4859,-1060.1 896.4859,-1060.1 896.4859,-1060.1 795.3041,-1060.1 795.3041,-1060.1 789.3041,-1060.1 783.3041,-1054.1 783.3041,-1048.1 783.3041,-1048.1 783.3041,-1022.5 783.3041,-1022.5 783.3041,-1016.5 789.3041,-1010.5 795.3041,-1010.5"></path>
-<text text-anchor="middle" x="845.895" y="-1043.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">Message queue</text>
-<polyline fill="none" stroke="#ff0000" points="783.3041,-1035.3 908.4859,-1035.3 "></polyline>
-<text text-anchor="middle" x="845.895" y="-1018.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">redis</text>
-</g>
-<!-- events&#45;&gt;queue -->
-<g id="edge26" class="edge">
-<title>events-&gt;queue</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M548.4222,-998.9992C614.7512,-1007.0934 708.5196,-1018.536 772.9553,-1026.3991"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="772.6859,-1029.8921 783.0363,-1027.6293 773.5339,-1022.9437 772.6859,-1029.8921"></polygon>
-</g>
-<!-- dojos&#45;&gt;events -->
-<g id="edge18" class="edge">
-<title>dojos-&gt;events</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M642.8215,-914.1618C623.4301,-932.1422 589.9383,-953.3291 557.4931,-969.7744"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="555.7942,-966.7099 548.3823,-974.2805 558.8975,-972.9844 555.7942,-966.7099"></polygon>
-</g>
-<!-- dojos&#45;&gt;users -->
-<g id="edge19" class="edge">
-<title>dojos-&gt;users</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M666.6095,-864.1535C681.3637,-835.8422 715.5772,-806.3219 734.7062,-774.3 761.0868,-730.1391 744.3256,-708.4609 770.7062,-664.3 772.7241,-660.9221 774.9098,-657.5719 777.2229,-654.2867"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="780.0278,-656.3801 783.2116,-646.275 774.4211,-652.1891 780.0278,-656.3801"></polygon>
-</g>
-<!-- dojodb -->
-<g id="node12" class="node">
-<title>dojodb</title>
-<path fill="#a020f0" stroke="#a020f0" d="M1180.6572,-876.5C1180.6572,-876.5 1290.2376,-876.5 1290.2376,-876.5 1296.2376,-876.5 1302.2376,-882.5 1302.2376,-888.5 1302.2376,-888.5 1302.2376,-914.1 1302.2376,-914.1 1302.2376,-920.1 1296.2376,-926.1 1290.2376,-926.1 1290.2376,-926.1 1180.6572,-926.1 1180.6572,-926.1 1174.6572,-926.1 1168.6572,-920.1 1168.6572,-914.1 1168.6572,-914.1 1168.6572,-888.5 1168.6572,-888.5 1168.6572,-882.5 1174.6572,-876.5 1180.6572,-876.5"></path>
-<text text-anchor="middle" x="1235.4474" y="-909.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">Dojos Database</text>
-<polyline fill="none" stroke="#a020f0" points="1168.6572,-901.3 1302.2376,-901.3 "></polyline>
-<text text-anchor="middle" x="1235.4474" y="-884.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">postgresql</text>
-</g>
-<!-- dojos&#45;&gt;dojodb -->
-<g id="edge20" class="edge">
-<title>dojos-&gt;dojodb</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M734.8102,-890.8688C844.6542,-893.1575 1047.7773,-897.3897 1158.5318,-899.6974"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="1158.5581,-903.1986 1168.6288,-899.9078 1158.704,-896.2001 1158.5581,-903.1986"></polygon>
-</g>
-<!-- dojos&#45;&gt;queue -->
-<g id="edge21" class="edge">
-<title>dojos-&gt;queue</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M691.5569,-914.3983C723.2572,-939.231 771.8601,-977.3043 806.0369,-1004.0769"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="803.9317,-1006.8739 813.9623,-1010.2853 808.2485,-1001.3633 803.9317,-1006.8739"></polygon>
-</g>
-<!-- users&#45;&gt;dojos -->
-<g id="edge15" class="edge">
-<title>users-&gt;dojos</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M838.8029,-646.4465C824.0487,-674.7578 789.8352,-704.2781 770.7062,-736.3 744.3256,-780.4609 761.0868,-802.1391 734.7062,-846.3 732.6883,-849.6779 730.5026,-853.0281 728.1895,-856.3133"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="725.3846,-854.2199 722.2008,-864.325 730.9913,-858.4109 725.3846,-854.2199"></polygon>
-</g>
-<!-- users&#45;&gt;badges -->
-<g id="edge16" class="edge">
-<title>users-&gt;badges</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M918.7597,-646.209C953.2733,-668.3607 991.948,-698.4065 1015.2414,-722.6059"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="1012.9018,-725.2332 1022.239,-730.2399 1018.062,-720.5032 1012.9018,-725.2332"></polygon>
-</g>
-<!-- userdb -->
-<g id="node13" class="node">
-<title>userdb</title>
-<path fill="#a020f0" stroke="#a020f0" d="M1184.8565,-596.5C1184.8565,-596.5 1286.0383,-596.5 1286.0383,-596.5 1292.0383,-596.5 1298.0383,-602.5 1298.0383,-608.5 1298.0383,-608.5 1298.0383,-634.1 1298.0383,-634.1 1298.0383,-640.1 1292.0383,-646.1 1286.0383,-646.1 1286.0383,-646.1 1184.8565,-646.1 1184.8565,-646.1 1178.8565,-646.1 1172.8565,-640.1 1172.8565,-634.1 1172.8565,-634.1 1172.8565,-608.5 1172.8565,-608.5 1172.8565,-602.5 1178.8565,-596.5 1184.8565,-596.5"></path>
-<text text-anchor="middle" x="1235.4474" y="-629.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">User Database</text>
-<polyline fill="none" stroke="#a020f0" points="1172.8565,-621.3 1298.0383,-621.3 "></polyline>
-<text text-anchor="middle" x="1235.4474" y="-604.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">postgresql</text>
-</g>
-<!-- users&#45;&gt;userdb -->
-<g id="edge17" class="edge">
-<title>users-&gt;userdb</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M921.4665,-621.3C991.0216,-621.3 1093.5299,-621.3 1162.3045,-621.3"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="1162.6204,-624.8001 1172.6203,-621.3 1162.6203,-617.8001 1162.6204,-624.8001"></polygon>
-</g>
-<!-- badges&#45;&gt;events -->
-<g id="edge5" class="edge">
-<title>badges-&gt;events</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M1034.1446,-780.1947C1023.5455,-861.5361 977.899,-1091.5454 921.0838,-1132.3 799.0482,-1219.8384 724.092,-1159.2714 584.3286,-1104.3 542.6125,-1087.8923 501.0466,-1054.0566 481.1152,-1022.9611"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="484.1269,-1021.1776 476.085,-1014.2799 478.0702,-1024.6871 484.1269,-1021.1776"></polygon>
-</g>
-<!-- badges&#45;&gt;dojos -->
-<g id="edge6" class="edge">
-<title>badges-&gt;dojos</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M961.4494,-780.1166C908.0637,-797.9882 834.7425,-822.9645 770.7062,-846.3 758.2319,-850.8457 745.0277,-855.8133 732.2426,-860.7059"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="730.6454,-857.5701 722.5665,-864.4245 733.1565,-864.1042 730.6454,-857.5701"></polygon>
-</g>
-<!-- badges&#45;&gt;users -->
-<g id="edge7" class="edge">
-<title>badges-&gt;users</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M963.3339,-730.2155C928.7648,-708.0006 890.0783,-677.9126 866.8737,-653.7321"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="869.2369,-651.1297 859.9086,-646.1064 864.0683,-655.8505 869.2369,-651.1297"></polygon>
-</g>
-<!-- badgekit -->
-<g id="node10" class="node">
-<title>badgekit</title>
-<path fill="#a020f0" stroke="#a020f0" d="M1172.2586,-737.3C1172.2586,-737.3 1298.6362,-737.3 1298.6362,-737.3 1304.6362,-737.3 1310.6362,-743.3 1310.6362,-749.3 1310.6362,-749.3 1310.6362,-761.3 1310.6362,-761.3 1310.6362,-767.3 1304.6362,-773.3 1298.6362,-773.3 1298.6362,-773.3 1172.2586,-773.3 1172.2586,-773.3 1166.2586,-773.3 1160.2586,-767.3 1160.2586,-761.3 1160.2586,-761.3 1160.2586,-749.3 1160.2586,-749.3 1160.2586,-743.3 1166.2586,-737.3 1172.2586,-737.3"></path>
-<text text-anchor="middle" x="1235.4474" y="-751.2" font-family="Courier,monospace" font-size="14.00" fill="#000000">Mozilla badgekit</text>
-</g>
-<!-- badges&#45;&gt;badgekit -->
-<g id="edge8" class="edge">
-<title>badges-&gt;badgekit</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M1115.9701,-755.3C1127.0756,-755.3 1138.5276,-755.3 1149.7415,-755.3"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="1149.9562,-758.8001 1159.9562,-755.3 1149.9562,-751.8001 1149.9562,-758.8001"></polygon>
-</g>
-<!-- zen -->
-<g id="node5" class="node">
-<title>zen</title>
-<path fill="#00ff00" stroke="#00ff00" d="M223.5734,-427.1C223.5734,-427.1 341.5524,-427.1 341.5524,-427.1 347.5524,-427.1 353.5524,-433.1 353.5524,-439.1 353.5524,-439.1 353.5524,-489.5 353.5524,-489.5 353.5524,-495.5 347.5524,-501.5 341.5524,-501.5 341.5524,-501.5 223.5734,-501.5 223.5734,-501.5 217.5734,-501.5 211.5734,-495.5 211.5734,-489.5 211.5734,-489.5 211.5734,-439.1 211.5734,-439.1 211.5734,-433.1 217.5734,-427.1 223.5734,-427.1"></path>
-<text text-anchor="middle" x="282.5629" y="-484.9" font-family="Courier,monospace" font-size="14.00" fill="#000000">cp-zen-platform</text>
-<polyline fill="none" stroke="#00ff00" points="211.5734,-476.7 353.5524,-476.7 "></polyline>
-<text text-anchor="middle" x="282.5629" y="-460.1" font-family="Courier,monospace" font-size="14.00" fill="#000000">hapi</text>
-<polyline fill="none" stroke="#00ff00" points="211.5734,-451.9 353.5524,-451.9 "></polyline>
-<text text-anchor="middle" x="282.5629" y="-435.3" font-family="Courier,monospace" font-size="14.00" fill="#000000">api</text>
-</g>
-<!-- zen&#45;&gt;events -->
-<g id="edge1" class="edge">
-<title>zen-&gt;events</title>
-<path fill="none" stroke="#ff0000" stroke-dasharray="5,2" d="M287.6078,-501.7345C298.6211,-576.1284 328.836,-746.657 389.5524,-877.3 402.9129,-906.0478 423.8206,-935.1568 440.8264,-956.4915"></path>
-<polygon fill="#ff0000" stroke="#ff0000" points="438.1144,-958.704 447.1291,-964.2705 443.5533,-954.2974 438.1144,-958.704"></polygon>
-</g>
-<!-- zen&#45;&gt;dojos -->
-<g id="edge2" class="edge">
-<title>zen-&gt;dojos</title>
-<path fill="none" stroke="#ff0000" stroke-dasharray="5,2" d="M297.3053,-501.5242C315.1433,-543.7389 348.0179,-613.3149 389.5524,-664.3 455.7122,-745.5136 554.5545,-818.994 612.4854,-858.5862"></path>
-<polygon fill="#ff0000" stroke="#ff0000" points="610.8332,-861.6947 621.0736,-864.4121 614.7629,-855.9018 610.8332,-861.6947"></polygon>
-</g>
-<!-- zen&#45;&gt;users -->
-<g id="edge3" class="edge">
-<title>zen-&gt;users</title>
-<path fill="none" stroke="#ff0000" stroke-dasharray="5,2" d="M350.2381,-501.5758C363.0538,-507.7342 376.5301,-513.6245 389.5524,-518.3 515.1187,-563.383 667.4317,-593.018 760.4679,-608.4678"></path>
-<polygon fill="#ff0000" stroke="#ff0000" points="759.9623,-611.9316 770.3976,-610.1002 761.0979,-605.0243 759.9623,-611.9316"></polygon>
+<path fill="#00ff00" stroke="#00ff00" d="M418.3496,-912.5C418.3496,-912.5 553.1258,-912.5 553.1258,-912.5 559.1258,-912.5 565.1258,-918.5 565.1258,-924.5 565.1258,-924.5 565.1258,-950.1 565.1258,-950.1 565.1258,-956.1 559.1258,-962.1 553.1258,-962.1 553.1258,-962.1 418.3496,-962.1 418.3496,-962.1 412.3496,-962.1 406.3496,-956.1 406.3496,-950.1 406.3496,-950.1 406.3496,-924.5 406.3496,-924.5 406.3496,-918.5 412.3496,-912.5 418.3496,-912.5"></path>
+<text text-anchor="middle" x="485.7377" y="-945.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">cp-badges-service</text>
+<polyline fill="none" stroke="#00ff00" points="406.3496,-937.3 565.1258,-937.3 "></polyline>
+<text text-anchor="middle" x="485.7377" y="-920.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">seneca</text>
 </g>
 <!-- zen&#45;&gt;badges -->
-<g id="edge4" class="edge">
+<g id="edge24" class="edge">
 <title>zen-&gt;badges</title>
-<path fill="none" stroke="#ff0000" stroke-dasharray="5,2" d="M353.7723,-456.3411C479.6779,-446.0335 744.9051,-441.6091 921.0838,-560.3 978.2565,-598.8171 1011.2262,-675.9801 1026.3374,-720.8288"></path>
-<polygon fill="#ff0000" stroke="#ff0000" points="1023.0364,-721.9956 1029.4623,-730.4193 1029.692,-719.827 1023.0364,-721.9956"></polygon>
+<path fill="none" stroke="#ff0000" stroke-dasharray="5,2" d="M305.6718,-646.6064C345.523,-710.9412 426.5712,-841.7832 464.8388,-903.5613"></path>
+<polygon fill="#ff0000" stroke="#ff0000" points="461.923,-905.5008 470.1644,-912.1589 467.8738,-901.8146 461.923,-905.5008"></polygon>
 </g>
-<!-- frontend2 -->
+<!-- dojos -->
+<g id="node3" class="node">
+<title>dojos</title>
+<path fill="#00ff00" stroke="#00ff00" d="M663.5174,-1130.5C663.5174,-1130.5 789.895,-1130.5 789.895,-1130.5 795.895,-1130.5 801.895,-1136.5 801.895,-1142.5 801.895,-1142.5 801.895,-1168.1 801.895,-1168.1 801.895,-1174.1 795.895,-1180.1 789.895,-1180.1 789.895,-1180.1 663.5174,-1180.1 663.5174,-1180.1 657.5174,-1180.1 651.5174,-1174.1 651.5174,-1168.1 651.5174,-1168.1 651.5174,-1142.5 651.5174,-1142.5 651.5174,-1136.5 657.5174,-1130.5 663.5174,-1130.5"></path>
+<text text-anchor="middle" x="726.7062" y="-1163.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">cp-dojos-service</text>
+<polyline fill="none" stroke="#00ff00" points="651.5174,-1155.3 801.895,-1155.3 "></polyline>
+<text text-anchor="middle" x="726.7062" y="-1138.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">seneca</text>
+</g>
+<!-- zen&#45;&gt;dojos -->
+<g id="edge25" class="edge">
+<title>zen-&gt;dojos</title>
+<path fill="none" stroke="#ff0000" stroke-dasharray="5,2" d="M288.7403,-646.7111C303.6735,-733.3072 343.8868,-944.2703 389.5524,-998.3 454.2726,-1074.8744 564.5222,-1116.3173 641.2578,-1137.0748"></path>
+<polygon fill="#ff0000" stroke="#ff0000" points="640.8217,-1140.5794 651.3838,-1139.7469 642.6078,-1133.8111 640.8217,-1140.5794"></polygon>
+</g>
+<!-- eventbrite -->
+<g id="node4" class="node">
+<title>eventbrite</title>
+<path fill="#00ff00" stroke="#00ff00" d="M401.5524,-1180.5C401.5524,-1180.5 569.923,-1180.5 569.923,-1180.5 575.923,-1180.5 581.923,-1186.5 581.923,-1192.5 581.923,-1192.5 581.923,-1218.1 581.923,-1218.1 581.923,-1224.1 575.923,-1230.1 569.923,-1230.1 569.923,-1230.1 401.5524,-1230.1 401.5524,-1230.1 395.5524,-1230.1 389.5524,-1224.1 389.5524,-1218.1 389.5524,-1218.1 389.5524,-1192.5 389.5524,-1192.5 389.5524,-1186.5 395.5524,-1180.5 401.5524,-1180.5"></path>
+<text text-anchor="middle" x="485.7377" y="-1213.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">cp-eventbrite-service</text>
+<polyline fill="none" stroke="#00ff00" points="389.5524,-1205.3 581.923,-1205.3 "></polyline>
+<text text-anchor="middle" x="485.7377" y="-1188.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">seneca</text>
+</g>
+<!-- zen&#45;&gt;eventbrite -->
+<g id="edge26" class="edge">
+<title>zen-&gt;eventbrite</title>
+<path fill="none" stroke="#ff0000" stroke-dasharray="5,2" d="M287.0012,-646.516C299.9547,-750.9087 339.9502,-1044.2267 389.5524,-1126.3 400.8867,-1145.0541 418.334,-1161.3464 435.2728,-1174.1845"></path>
+<polygon fill="#ff0000" stroke="#ff0000" points="433.3782,-1177.1348 443.5184,-1180.2051 437.506,-1171.4814 433.3782,-1177.1348"></polygon>
+</g>
+<!-- events -->
+<g id="node5" class="node">
+<title>events</title>
+<path fill="#00ff00" stroke="#00ff00" d="M883.4894,-1592.5C883.4894,-1592.5 1018.2656,-1592.5 1018.2656,-1592.5 1024.2656,-1592.5 1030.2656,-1598.5 1030.2656,-1604.5 1030.2656,-1604.5 1030.2656,-1630.1 1030.2656,-1630.1 1030.2656,-1636.1 1024.2656,-1642.1 1018.2656,-1642.1 1018.2656,-1642.1 883.4894,-1642.1 883.4894,-1642.1 877.4894,-1642.1 871.4894,-1636.1 871.4894,-1630.1 871.4894,-1630.1 871.4894,-1604.5 871.4894,-1604.5 871.4894,-1598.5 877.4894,-1592.5 883.4894,-1592.5"></path>
+<text text-anchor="middle" x="950.8775" y="-1625.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">cp-events-service</text>
+<polyline fill="none" stroke="#00ff00" points="871.4894,-1617.3 1030.2656,-1617.3 "></polyline>
+<text text-anchor="middle" x="950.8775" y="-1600.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">seneca</text>
+</g>
+<!-- zen&#45;&gt;events -->
+<g id="edge27" class="edge">
+<title>zen-&gt;events</title>
+<path fill="none" stroke="#ff0000" stroke-dasharray="5,2" d="M286.0532,-646.5986C297.8538,-768.4437 338.3973,-1153.4056 389.5524,-1266.3 455.4059,-1411.6324 481.8985,-1459.9002 617.923,-1543.3 692.0209,-1588.7312 790.6063,-1606.3924 861.2392,-1613.1929"></path>
+<polygon fill="#ff0000" stroke="#ff0000" points="861.176,-1616.7014 871.4514,-1614.1194 861.8086,-1609.7301 861.176,-1616.7014"></polygon>
+</g>
+<!-- orgs -->
 <g id="node6" class="node">
-<title>frontend2</title>
-<path fill="#add8e6" stroke="#add8e6" d="M45.5944,-556.5C45.5944,-556.5 129.979,-556.5 129.979,-556.5 135.979,-556.5 141.979,-562.5 141.979,-568.5 141.979,-568.5 141.979,-594.1 141.979,-594.1 141.979,-600.1 135.979,-606.1 129.979,-606.1 129.979,-606.1 45.5944,-606.1 45.5944,-606.1 39.5944,-606.1 33.5944,-600.1 33.5944,-594.1 33.5944,-594.1 33.5944,-568.5 33.5944,-568.5 33.5944,-562.5 39.5944,-556.5 45.5944,-556.5"></path>
-<text text-anchor="middle" x="87.7867" y="-589.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">cp-frontend</text>
-<polyline fill="none" stroke="#add8e6" points="33.5944,-581.3 141.979,-581.3 "></polyline>
-<text text-anchor="middle" x="87.7867" y="-564.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">veu.js</text>
+<title>orgs</title>
+<path fill="#00ff00" stroke="#00ff00" d="M629.923,-584.5C629.923,-584.5 823.4894,-584.5 823.4894,-584.5 829.4894,-584.5 835.4894,-590.5 835.4894,-596.5 835.4894,-596.5 835.4894,-622.1 835.4894,-622.1 835.4894,-628.1 829.4894,-634.1 823.4894,-634.1 823.4894,-634.1 629.923,-634.1 629.923,-634.1 623.923,-634.1 617.923,-628.1 617.923,-622.1 617.923,-622.1 617.923,-596.5 617.923,-596.5 617.923,-590.5 623.923,-584.5 629.923,-584.5"></path>
+<text text-anchor="middle" x="726.7062" y="-617.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">cp-organisations-service</text>
+<polyline fill="none" stroke="#00ff00" points="617.923,-609.3 835.4894,-609.3 "></polyline>
+<text text-anchor="middle" x="726.7062" y="-592.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">seneca</text>
 </g>
-<!-- frontend2&#45;&gt;zen -->
+<!-- zen&#45;&gt;orgs -->
+<g id="edge28" class="edge">
+<title>zen-&gt;orgs</title>
+<path fill="none" stroke="#ff0000" stroke-dasharray="5,2" d="M353.9222,-609.3C422.2348,-609.3 526.5735,-609.3 607.5093,-609.3"></path>
+<polygon fill="#ff0000" stroke="#ff0000" points="607.7611,-612.8001 617.7611,-609.3 607.7611,-605.8001 607.7611,-612.8001"></polygon>
+</g>
+<!-- users -->
+<g id="node7" class="node">
+<title>users</title>
+<path fill="#00ff00" stroke="#00ff00" d="M1078.2656,-912.5C1078.2656,-912.5 1204.6432,-912.5 1204.6432,-912.5 1210.6432,-912.5 1216.6432,-918.5 1216.6432,-924.5 1216.6432,-924.5 1216.6432,-950.1 1216.6432,-950.1 1216.6432,-956.1 1210.6432,-962.1 1204.6432,-962.1 1204.6432,-962.1 1078.2656,-962.1 1078.2656,-962.1 1072.2656,-962.1 1066.2656,-956.1 1066.2656,-950.1 1066.2656,-950.1 1066.2656,-924.5 1066.2656,-924.5 1066.2656,-918.5 1072.2656,-912.5 1078.2656,-912.5"></path>
+<text text-anchor="middle" x="1141.4544" y="-945.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">cp-users-service</text>
+<polyline fill="none" stroke="#00ff00" points="1066.2656,-937.3 1216.6432,-937.3 "></polyline>
+<text text-anchor="middle" x="1141.4544" y="-920.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">seneca</text>
+</g>
+<!-- zen&#45;&gt;users -->
+<g id="edge29" class="edge">
+<title>zen-&gt;users</title>
+<path fill="none" stroke="#ff0000" stroke-dasharray="5,2" d="M353.7696,-582.0553C461.2944,-545.1652 670.1003,-490.2326 835.4894,-548.3 940.1368,-585.0412 961.3599,-617.392 1030.2656,-704.3 1079.7903,-766.7635 1114.1674,-854.8929 1130.541,-902.8791"></path>
+<polygon fill="#ff0000" stroke="#ff0000" points="1127.2642,-904.1164 1133.7606,-912.4859 1133.9014,-901.892 1127.2642,-904.1164"></polygon>
+</g>
+<!-- badges&#45;&gt;dojos -->
+<g id="edge1" class="edge">
+<title>badges-&gt;dojos</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M517.4399,-962.3158C536.4452,-977.563 560.9207,-997.6435 581.923,-1016.3 621.7397,-1051.6695 665.6209,-1094.3523 694.5204,-1123.0082"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="692.3357,-1125.7715 701.8954,-1130.3391 697.2706,-1120.8069 692.3357,-1125.7715"></polygon>
+</g>
+<!-- badges&#45;&gt;events -->
+<g id="edge2" class="edge">
+<title>badges-&gt;events</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M507.2843,-962.288C542.7492,-1024.9059 610.2808,-1170.3086 617.923,-1180.3 695.2115,-1281.3466 760.1122,-1263.8197 835.4894,-1366.3 859.5558,-1399.0198 852.9185,-1414.1766 871.4894,-1450.3 894.4263,-1494.9158 926.6672,-1544.9111 942.0454,-1582.536"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="938.9327,-1584.1997 945.7454,-1592.3137 945.4796,-1581.7222 938.9327,-1584.1997"></polygon>
+</g>
+<!-- badges&#45;&gt;users -->
+<g id="edge3" class="edge">
+<title>badges-&gt;users</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M565.1589,-918.9322C689.3185,-907.6008 928.3717,-907.4254 1056.0898,-918.4058"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="1055.9418,-921.9066 1066.2166,-919.3224 1056.5729,-914.9351 1055.9418,-921.9066"></polygon>
+</g>
+<!-- badgekit -->
+<g id="node13" class="node">
+<title>badgekit</title>
+<path fill="#ffa500" stroke="#ffa500" d="M1273.0418,-737.3C1273.0418,-737.3 1399.4194,-737.3 1399.4194,-737.3 1405.4194,-737.3 1411.4194,-743.3 1411.4194,-749.3 1411.4194,-749.3 1411.4194,-761.3 1411.4194,-761.3 1411.4194,-767.3 1405.4194,-773.3 1399.4194,-773.3 1399.4194,-773.3 1273.0418,-773.3 1273.0418,-773.3 1267.0418,-773.3 1261.0418,-767.3 1261.0418,-761.3 1261.0418,-761.3 1261.0418,-749.3 1261.0418,-749.3 1261.0418,-743.3 1267.0418,-737.3 1273.0418,-737.3"></path>
+<text text-anchor="middle" x="1336.2306" y="-751.2" font-family="Courier,monospace" font-size="14.00" fill="#000000">Mozilla badgekit</text>
+</g>
+<!-- badges&#45;&gt;badgekit -->
+<g id="edge4" class="edge">
+<title>badges-&gt;badgekit</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M565.3678,-920.2597C725.6411,-885.9622 1085.8961,-808.87 1250.8384,-773.5734"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="1251.892,-776.9272 1260.9382,-771.4121 1250.4272,-770.0822 1251.892,-776.9272"></polygon>
+</g>
+<!-- dojos&#45;&gt;events -->
+<g id="edge7" class="edge">
+<title>dojos-&gt;events</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M801.8966,-1161.8112C815.0077,-1171.5612 827.1077,-1184.004 835.4894,-1198.3 904.3029,-1315.67 811.9599,-1379.9593 871.4894,-1502.3 886.4706,-1533.0883 918.405,-1558.8998 936.8809,-1583.7304"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="934.0687,-1585.8191 942.5868,-1592.1193 939.8568,-1581.8823 934.0687,-1585.8191"></polygon>
+</g>
+<!-- dojos&#45;&gt;users -->
+<g id="edge8" class="edge">
+<title>dojos-&gt;users</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M748.3248,-1130.3514C799.5339,-1096.4468 931.3508,-1051.735 1030.2656,-992.3 1042.3094,-985.0633 1054.4362,-976.6055 1066.0265,-968.1978"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="1068.3558,-970.8305 1074.3623,-962.1028 1064.2242,-965.1799 1068.3558,-970.8305"></polygon>
+</g>
+<!-- dojodb -->
+<g id="node15" class="node">
+<title>dojodb</title>
+<path fill="#a020f0" stroke="#a020f0" d="M1281.4404,-1312.5C1281.4404,-1312.5 1391.0208,-1312.5 1391.0208,-1312.5 1397.0208,-1312.5 1403.0208,-1318.5 1403.0208,-1324.5 1403.0208,-1324.5 1403.0208,-1350.1 1403.0208,-1350.1 1403.0208,-1356.1 1397.0208,-1362.1 1391.0208,-1362.1 1391.0208,-1362.1 1281.4404,-1362.1 1281.4404,-1362.1 1275.4404,-1362.1 1269.4404,-1356.1 1269.4404,-1350.1 1269.4404,-1350.1 1269.4404,-1324.5 1269.4404,-1324.5 1269.4404,-1318.5 1275.4404,-1312.5 1281.4404,-1312.5"></path>
+<text text-anchor="middle" x="1336.2306" y="-1345.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">Dojos Database</text>
+<polyline fill="none" stroke="#a020f0" points="1269.4404,-1337.3 1403.0208,-1337.3 "></polyline>
+<text text-anchor="middle" x="1336.2306" y="-1320.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">postgresql</text>
+</g>
+<!-- dojos&#45;&gt;dojodb -->
 <g id="edge9" class="edge">
-<title>frontend2-&gt;zen</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M129.0937,-556.4873C153.0756,-542.0816 183.9401,-523.5417 211.6941,-506.8701"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="213.8131,-509.6802 220.5832,-501.5306 210.2086,-503.6796 213.8131,-509.6802"></polygon>
+<title>dojos-&gt;dojodb</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M802.0572,-1177.7993C918.6983,-1212.6276 1141.7551,-1279.2309 1259.3305,-1314.3381"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="1258.4083,-1317.7154 1268.9917,-1317.2229 1260.4112,-1311.008 1258.4083,-1317.7154"></polygon>
+</g>
+<!-- queue -->
+<g id="node18" class="node">
+<title>queue</title>
+<path fill="#ff0000" stroke="#ff0000" d="M1090.8635,-1447.1C1090.8635,-1447.1 1192.0453,-1447.1 1192.0453,-1447.1 1198.0453,-1447.1 1204.0453,-1453.1 1204.0453,-1459.1 1204.0453,-1459.1 1204.0453,-1509.5 1204.0453,-1509.5 1204.0453,-1515.5 1198.0453,-1521.5 1192.0453,-1521.5 1192.0453,-1521.5 1090.8635,-1521.5 1090.8635,-1521.5 1084.8635,-1521.5 1078.8635,-1515.5 1078.8635,-1509.5 1078.8635,-1509.5 1078.8635,-1459.1 1078.8635,-1459.1 1078.8635,-1453.1 1084.8635,-1447.1 1090.8635,-1447.1"></path>
+<text text-anchor="middle" x="1141.4544" y="-1504.9" font-family="Courier,monospace" font-size="14.00" fill="#000000">Message queue</text>
+<polyline fill="none" stroke="#ff0000" points="1078.8635,-1496.7 1204.0453,-1496.7 "></polyline>
+<text text-anchor="middle" x="1141.4544" y="-1480.1" font-family="Courier,monospace" font-size="14.00" fill="#000000">seneca queue</text>
+<polyline fill="none" stroke="#ff0000" points="1078.8635,-1471.9 1204.0453,-1471.9 "></polyline>
+<text text-anchor="middle" x="1141.4544" y="-1455.3" font-family="Courier,monospace" font-size="14.00" fill="#000000">redis</text>
+</g>
+<!-- dojos&#45;&gt;queue -->
+<g id="edge10" class="edge">
+<title>dojos-&gt;queue</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M775.6214,-1180.2359C797.0462,-1193.5217 820.6398,-1211.7999 835.4894,-1234.3 875.1612,-1294.4108 823.2892,-1338.7845 871.4894,-1392.3 921.7927,-1448.1506 1007.3618,-1470.1142 1068.6867,-1478.7409"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="1068.321,-1482.2229 1078.6929,-1480.0612 1069.2367,-1475.283 1068.321,-1482.2229"></polygon>
+</g>
+<!-- eventbrite&#45;&gt;dojos -->
+<g id="edge11" class="edge">
+<title>eventbrite-&gt;dojos</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M582.0137,-1185.3231C601.6611,-1181.2464 622.2043,-1176.9837 641.4354,-1172.9934"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="642.2803,-1176.3927 651.3607,-1170.9339 640.8581,-1169.5387 642.2803,-1176.3927"></polygon>
+</g>
+<!-- eventbrite&#45;&gt;events -->
+<g id="edge12" class="edge">
+<title>eventbrite-&gt;events</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M496.6541,-1230.3289C516.0905,-1272.695 560.1402,-1359.4646 617.923,-1416.3 696.8164,-1493.8999 811.1586,-1554.5221 883.2256,-1588.1"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="882.1236,-1591.4461 892.6699,-1592.4583 885.0567,-1585.0902 882.1236,-1591.4461"></polygon>
+</g>
+<!-- events&#45;&gt;badges -->
+<g id="edge13" class="edge">
+<title>events-&gt;badges</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M912.9211,-1592.3225C899.162,-1572.3727 883.9523,-1546.5423 871.4894,-1522.3 852.9185,-1486.1766 859.5558,-1471.0198 835.4894,-1438.3 760.1122,-1335.8197 695.2115,-1353.3466 617.923,-1252.3 609.2201,-1240.9219 522.8495,-1053.9353 494.6164,-971.6369"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="497.9372,-970.5309 491.4707,-962.1383 491.2921,-972.7317 497.9372,-970.5309"></polygon>
+</g>
+<!-- events&#45;&gt;dojos -->
+<g id="edge14" class="edge">
+<title>events-&gt;dojos</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M882.5433,-1592.3927C878.3234,-1586.6805 874.5521,-1580.5943 871.4894,-1574.3 811.9599,-1451.9593 904.3029,-1387.67 835.4894,-1270.3 814.7344,-1234.8998 771.1796,-1210.8627 745.9303,-1187.6167"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="748.2743,-1185.0109 738.7276,-1180.4161 743.3252,-1189.9614 748.2743,-1185.0109"></polygon>
+</g>
+<!-- events&#45;&gt;users -->
+<g id="edge15" class="edge">
+<title>events-&gt;users</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M957.8863,-1592.292C986.9559,-1488.5682 1098.0899,-1092.0294 1131.7417,-971.9559"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="1135.1542,-972.7492 1134.4827,-962.1757 1128.4139,-970.8601 1135.1542,-972.7492"></polygon>
+</g>
+<!-- eventdb -->
+<g id="node16" class="node">
+<title>eventdb</title>
+<path fill="#a020f0" stroke="#a020f0" d="M1277.2411,-1606.5C1277.2411,-1606.5 1395.2201,-1606.5 1395.2201,-1606.5 1401.2201,-1606.5 1407.2201,-1612.5 1407.2201,-1618.5 1407.2201,-1618.5 1407.2201,-1644.1 1407.2201,-1644.1 1407.2201,-1650.1 1401.2201,-1656.1 1395.2201,-1656.1 1395.2201,-1656.1 1277.2411,-1656.1 1277.2411,-1656.1 1271.2411,-1656.1 1265.2411,-1650.1 1265.2411,-1644.1 1265.2411,-1644.1 1265.2411,-1618.5 1265.2411,-1618.5 1265.2411,-1612.5 1271.2411,-1606.5 1277.2411,-1606.5"></path>
+<text text-anchor="middle" x="1336.2306" y="-1639.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">Events Database</text>
+<polyline fill="none" stroke="#a020f0" points="1265.2411,-1631.3 1407.2201,-1631.3 "></polyline>
+<text text-anchor="middle" x="1336.2306" y="-1614.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">postgresql</text>
+</g>
+<!-- events&#45;&gt;eventdb -->
+<g id="edge16" class="edge">
+<title>events-&gt;eventdb</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M1030.7229,-1620.2008C1096.3255,-1622.5842 1188.8727,-1625.9464 1254.8824,-1628.3446"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="1255.12,-1631.8554 1265.2405,-1628.7209 1255.3742,-1624.8601 1255.12,-1631.8554"></polygon>
+</g>
+<!-- events&#45;&gt;queue -->
+<g id="edge17" class="edge">
+<title>events-&gt;queue</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M986.7236,-1592.2837C1012.8412,-1574.0567 1048.8786,-1548.9069 1079.604,-1527.4642"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="1081.9192,-1530.1166 1088.1167,-1521.5234 1077.9131,-1524.3762 1081.9192,-1530.1166"></polygon>
+</g>
+<!-- orgs&#45;&gt;users -->
+<g id="edge18" class="edge">
+<title>orgs-&gt;users</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M759.2448,-634.3113C815.0204,-677.2716 932.3441,-768.0207 1030.2656,-846.3 1054.7986,-865.9119 1082.097,-888.2461 1103.5055,-905.8801"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="1101.462,-908.7315 1111.4041,-912.3929 1105.9153,-903.3307 1101.462,-908.7315"></polygon>
+</g>
+<!-- users&#45;&gt;badges -->
+<g id="edge19" class="edge">
+<title>users-&gt;badges</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M1066.2166,-955.2776C944.6946,-966.8622 705.711,-967.291 575.4944,-956.5639"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="575.4239,-953.0447 565.1589,-955.6678 574.8192,-960.0185 575.4239,-953.0447"></polygon>
+</g>
+<!-- users&#45;&gt;dojos -->
+<g id="edge20" class="edge">
+<title>users-&gt;dojos</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M1134.5888,-962.3353C1117.9341,-996.4868 1073.5631,-1038.2838 1030.2656,-1064.3 960.544,-1106.1936 874.4754,-1140.7723 811.8113,-1157.0199"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="810.8215,-1153.6593 801.9612,-1159.4684 812.5102,-1160.4526 810.8215,-1153.6593"></polygon>
+</g>
+<!-- userdb -->
+<g id="node19" class="node">
+<title>userdb</title>
+<path fill="#a020f0" stroke="#a020f0" d="M1285.6397,-912.5C1285.6397,-912.5 1386.8215,-912.5 1386.8215,-912.5 1392.8215,-912.5 1398.8215,-918.5 1398.8215,-924.5 1398.8215,-924.5 1398.8215,-950.1 1398.8215,-950.1 1398.8215,-956.1 1392.8215,-962.1 1386.8215,-962.1 1386.8215,-962.1 1285.6397,-962.1 1285.6397,-962.1 1279.6397,-962.1 1273.6397,-956.1 1273.6397,-950.1 1273.6397,-950.1 1273.6397,-924.5 1273.6397,-924.5 1273.6397,-918.5 1279.6397,-912.5 1285.6397,-912.5"></path>
+<text text-anchor="middle" x="1336.2306" y="-945.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">User Database</text>
+<polyline fill="none" stroke="#a020f0" points="1273.6397,-937.3 1398.8215,-937.3 "></polyline>
+<text text-anchor="middle" x="1336.2306" y="-920.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">postgresql</text>
+</g>
+<!-- users&#45;&gt;userdb -->
+<g id="edge21" class="edge">
+<title>users-&gt;userdb</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M1216.76,-937.3C1231.9812,-937.3 1247.9622,-937.3 1263.1071,-937.3"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="1263.4388,-940.8001 1273.4388,-937.3 1263.4387,-933.8001 1263.4388,-940.8001"></polygon>
 </g>
 <!-- frontend1 -->
-<g id="node7" class="node">
+<g id="node8" class="node">
 <title>frontend1</title>
-<path fill="#add8e6" stroke="#add8e6" d="M12,-433.5C12,-433.5 163.5734,-433.5 163.5734,-433.5 169.5734,-433.5 175.5734,-439.5 175.5734,-445.5 175.5734,-445.5 175.5734,-471.1 175.5734,-471.1 175.5734,-477.1 169.5734,-483.1 163.5734,-483.1 163.5734,-483.1 12,-483.1 12,-483.1 6,-483.1 0,-477.1 0,-471.1 0,-471.1 0,-445.5 0,-445.5 0,-439.5 6,-433.5 12,-433.5"></path>
-<text text-anchor="middle" x="87.7867" y="-466.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">cp-zen-platform/web</text>
-<polyline fill="none" stroke="#add8e6" points="0,-458.3 175.5734,-458.3 "></polyline>
-<text text-anchor="middle" x="87.7867" y="-441.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">angular 1</text>
+<path fill="#add8e6" stroke="#add8e6" d="M12,-645.5C12,-645.5 163.5734,-645.5 163.5734,-645.5 169.5734,-645.5 175.5734,-651.5 175.5734,-657.5 175.5734,-657.5 175.5734,-683.1 175.5734,-683.1 175.5734,-689.1 169.5734,-695.1 163.5734,-695.1 163.5734,-695.1 12,-695.1 12,-695.1 6,-695.1 0,-689.1 0,-683.1 0,-683.1 0,-657.5 0,-657.5 0,-651.5 6,-645.5 12,-645.5"></path>
+<text text-anchor="middle" x="87.7867" y="-678.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">cp-zen-platform/web</text>
+<polyline fill="none" stroke="#add8e6" points="0,-670.3 175.5734,-670.3 "></polyline>
+<text text-anchor="middle" x="87.7867" y="-653.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">angular 1</text>
 </g>
 <!-- frontend1&#45;&gt;zen -->
-<g id="edge10" class="edge">
+<g id="edge30" class="edge">
 <title>frontend1-&gt;zen</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M175.7724,-461.0104C184.2298,-461.2709 192.7827,-461.5344 201.1727,-461.7928"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="201.2055,-465.2954 211.3086,-462.105 201.4211,-458.2987 201.2055,-465.2954"></polygon>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M167.0096,-645.489C178.5292,-641.8813 190.4004,-638.1635 201.9472,-634.5472"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="203.0585,-637.8669 211.5554,-631.5381 200.9663,-631.1868 203.0585,-637.8669"></polygon>
+</g>
+<!-- frontend2 -->
+<g id="node9" class="node">
+<title>frontend2</title>
+<path fill="#add8e6" stroke="#add8e6" d="M45.5944,-522.5C45.5944,-522.5 129.979,-522.5 129.979,-522.5 135.979,-522.5 141.979,-528.5 141.979,-534.5 141.979,-534.5 141.979,-560.1 141.979,-560.1 141.979,-566.1 135.979,-572.1 129.979,-572.1 129.979,-572.1 45.5944,-572.1 45.5944,-572.1 39.5944,-572.1 33.5944,-566.1 33.5944,-560.1 33.5944,-560.1 33.5944,-534.5 33.5944,-534.5 33.5944,-528.5 39.5944,-522.5 45.5944,-522.5"></path>
+<text text-anchor="middle" x="87.7867" y="-555.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">cp-frontend</text>
+<polyline fill="none" stroke="#add8e6" points="33.5944,-547.3 141.979,-547.3 "></polyline>
+<text text-anchor="middle" x="87.7867" y="-530.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">veu.js</text>
+</g>
+<!-- frontend2&#45;&gt;zen -->
+<g id="edge31" class="edge">
+<title>frontend2-&gt;zen</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M142.0427,-564.5705C160.519,-570.4517 181.5909,-577.1592 201.6953,-583.5587"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="200.8808,-586.9724 211.4713,-586.6706 203.0041,-580.3022 200.8808,-586.9724"></polygon>
 </g>
 <!-- forumn -->
-<g id="node8" class="node">
+<g id="node10" class="node">
 <title>forumn</title>
-<path fill="#add8e6" stroke="#add8e6" d="M66.5909,-298.5C66.5909,-298.5 108.9825,-298.5 108.9825,-298.5 114.9825,-298.5 120.9825,-304.5 120.9825,-310.5 120.9825,-310.5 120.9825,-336.1 120.9825,-336.1 120.9825,-342.1 114.9825,-348.1 108.9825,-348.1 108.9825,-348.1 66.5909,-348.1 66.5909,-348.1 60.5909,-348.1 54.5909,-342.1 54.5909,-336.1 54.5909,-336.1 54.5909,-310.5 54.5909,-310.5 54.5909,-304.5 60.5909,-298.5 66.5909,-298.5"></path>
-<text text-anchor="middle" x="87.7867" y="-331.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">Forumn</text>
-<polyline fill="none" stroke="#add8e6" points="54.5909,-323.3 120.9825,-323.3 "></polyline>
-<text text-anchor="middle" x="87.7867" y="-306.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">nodebb</text>
+<path fill="#add8e6" stroke="#add8e6" d="M66.5909,-345.5C66.5909,-345.5 108.9825,-345.5 108.9825,-345.5 114.9825,-345.5 120.9825,-351.5 120.9825,-357.5 120.9825,-357.5 120.9825,-383.1 120.9825,-383.1 120.9825,-389.1 114.9825,-395.1 108.9825,-395.1 108.9825,-395.1 66.5909,-395.1 66.5909,-395.1 60.5909,-395.1 54.5909,-389.1 54.5909,-383.1 54.5909,-383.1 54.5909,-357.5 54.5909,-357.5 54.5909,-351.5 60.5909,-345.5 66.5909,-345.5"></path>
+<text text-anchor="middle" x="87.7867" y="-378.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">Forumn</text>
+<polyline fill="none" stroke="#add8e6" points="54.5909,-370.3 120.9825,-370.3 "></polyline>
+<text text-anchor="middle" x="87.7867" y="-353.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">nodebb</text>
 </g>
 <!-- forumn&#45;&gt;zen -->
-<g id="edge11" class="edge">
+<g id="edge32" class="edge">
 <title>forumn-&gt;zen</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M121.2699,-347.5388C149.0449,-367.6453 189.2361,-396.74 222.5493,-420.8557"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="220.7062,-423.8423 230.8589,-426.8711 224.8109,-418.172 220.7062,-423.8423"></polygon>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M108.263,-395.4255C140.8977,-435.4698 205.1676,-514.3322 245.8851,-564.2945"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="243.1787,-566.514 252.2093,-572.0547 248.605,-562.0917 243.1787,-566.514"></polygon>
 </g>
 <!-- forumndb -->
 <g id="node17" class="node">
 <title>forumndb</title>
-<path fill="#ff0000" stroke="#ff0000" d="M1176.4579,-219.5C1176.4579,-219.5 1294.4369,-219.5 1294.4369,-219.5 1300.4369,-219.5 1306.4369,-225.5 1306.4369,-231.5 1306.4369,-231.5 1306.4369,-257.1 1306.4369,-257.1 1306.4369,-263.1 1300.4369,-269.1 1294.4369,-269.1 1294.4369,-269.1 1176.4579,-269.1 1176.4579,-269.1 1170.4579,-269.1 1164.4579,-263.1 1164.4579,-257.1 1164.4579,-257.1 1164.4579,-231.5 1164.4579,-231.5 1164.4579,-225.5 1170.4579,-219.5 1176.4579,-219.5"></path>
-<text text-anchor="middle" x="1235.4474" y="-252.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">Forumn Database</text>
-<polyline fill="none" stroke="#ff0000" points="1164.4579,-244.3 1306.4369,-244.3 "></polyline>
-<text text-anchor="middle" x="1235.4474" y="-227.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">redis</text>
+<path fill="#ff0000" stroke="#ff0000" d="M1277.2411,-219.5C1277.2411,-219.5 1395.2201,-219.5 1395.2201,-219.5 1401.2201,-219.5 1407.2201,-225.5 1407.2201,-231.5 1407.2201,-231.5 1407.2201,-257.1 1407.2201,-257.1 1407.2201,-263.1 1401.2201,-269.1 1395.2201,-269.1 1395.2201,-269.1 1277.2411,-269.1 1277.2411,-269.1 1271.2411,-269.1 1265.2411,-263.1 1265.2411,-257.1 1265.2411,-257.1 1265.2411,-231.5 1265.2411,-231.5 1265.2411,-225.5 1271.2411,-219.5 1277.2411,-219.5"></path>
+<text text-anchor="middle" x="1336.2306" y="-252.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">Forumn Database</text>
+<polyline fill="none" stroke="#ff0000" points="1265.2411,-244.3 1407.2201,-244.3 "></polyline>
+<text text-anchor="middle" x="1336.2306" y="-227.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">redis</text>
 </g>
 <!-- forumn&#45;&gt;forumndb -->
-<g id="edge12" class="edge">
+<g id="edge33" class="edge">
 <title>forumn-&gt;forumndb</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M121.1787,-322.4211C187.4688,-320.7546 340.3844,-317.3 468.9405,-317.3 468.9405,-317.3 468.9405,-317.3 845.895,-317.3 954.1115,-317.3 1076.3894,-289.748 1154.6078,-268.497"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="1155.6821,-271.8317 1164.3977,-265.8076 1153.8277,-265.0817 1155.6821,-271.8317"></polygon>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M121.1284,-362.8188C189.2501,-348.2093 349.4766,-317.3 485.7377,-317.3 485.7377,-317.3 485.7377,-317.3 950.8775,-317.3 1057.4775,-317.3 1177.8119,-289.9994 1255.2161,-268.789"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="1256.2055,-272.1468 1264.9078,-266.1035 1254.3363,-265.401 1256.2055,-272.1468"></polygon>
 </g>
 <!-- ninja -->
-<g id="node9" class="node">
+<g id="node11" class="node">
 <title>ninja</title>
-<path fill="#add8e6" stroke="#add8e6" d="M41.3951,-160.5C41.3951,-160.5 134.1783,-160.5 134.1783,-160.5 140.1783,-160.5 146.1783,-166.5 146.1783,-172.5 146.1783,-172.5 146.1783,-198.1 146.1783,-198.1 146.1783,-204.1 140.1783,-210.1 134.1783,-210.1 134.1783,-210.1 41.3951,-210.1 41.3951,-210.1 35.3951,-210.1 29.3951,-204.1 29.3951,-198.1 29.3951,-198.1 29.3951,-172.5 29.3951,-172.5 29.3951,-166.5 35.3951,-160.5 41.3951,-160.5"></path>
-<text text-anchor="middle" x="87.7867" y="-193.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">Ninja forumn</text>
-<polyline fill="none" stroke="#add8e6" points="29.3951,-185.3 146.1783,-185.3 "></polyline>
-<text text-anchor="middle" x="87.7867" y="-168.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">nodebb</text>
+<path fill="#add8e6" stroke="#add8e6" d="M41.3951,-184.5C41.3951,-184.5 134.1783,-184.5 134.1783,-184.5 140.1783,-184.5 146.1783,-190.5 146.1783,-196.5 146.1783,-196.5 146.1783,-222.1 146.1783,-222.1 146.1783,-228.1 140.1783,-234.1 134.1783,-234.1 134.1783,-234.1 41.3951,-234.1 41.3951,-234.1 35.3951,-234.1 29.3951,-228.1 29.3951,-222.1 29.3951,-222.1 29.3951,-196.5 29.3951,-196.5 29.3951,-190.5 35.3951,-184.5 41.3951,-184.5"></path>
+<text text-anchor="middle" x="87.7867" y="-217.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">Ninja forumn</text>
+<polyline fill="none" stroke="#add8e6" points="29.3951,-209.3 146.1783,-209.3 "></polyline>
+<text text-anchor="middle" x="87.7867" y="-192.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">nodebb</text>
 </g>
 <!-- ninja&#45;&gt;zen -->
-<g id="edge13" class="edge">
+<g id="edge34" class="edge">
 <title>ninja-&gt;zen</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M121.7292,-210.2149C139.2402,-224.1988 160.1098,-242.7384 175.5734,-262.3 213.7827,-310.6353 244.9981,-374.6404 263.649,-417.5303"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="260.5027,-419.074 267.6627,-426.8833 266.9354,-416.3135 260.5027,-419.074"></polygon>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M114.6163,-234.3063C133.7554,-253.3464 158.9469,-281.0212 175.5734,-309.3 224.2895,-392.1577 256.1755,-500.8062 271.6267,-562.0213"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="268.2461,-562.9305 274.0545,-571.7912 275.0395,-561.2423 268.2461,-562.9305"></polygon>
 </g>
 <!-- ninja&#45;&gt;forumndb -->
-<g id="edge14" class="edge">
+<g id="edge35" class="edge">
 <title>ninja-&gt;forumndb</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M146.2033,-181.8213C220.9795,-177.6751 354.5504,-171.3 468.9405,-171.3 468.9405,-171.3 468.9405,-171.3 845.895,-171.3 954.1115,-171.3 1076.3894,-198.852 1154.6078,-220.103"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="1153.8277,-223.5183 1164.3977,-222.7924 1155.6821,-216.7683 1153.8277,-223.5183"></polygon>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M146.282,-200.1981C223.7243,-188.9561 364.6295,-171.3 485.7377,-171.3 485.7377,-171.3 485.7377,-171.3 950.8775,-171.3 1057.4775,-171.3 1177.8119,-198.6006 1255.2161,-219.811"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="1254.3363,-223.199 1264.9078,-222.4965 1256.2055,-216.4532 1254.3363,-223.199"></polygon>
 </g>
 <!-- wordpress -->
-<g id="node15" class="node">
+<g id="node12" class="node">
 <title>wordpress</title>
-<path fill="#add8e6" stroke="#add8e6" d="M53.993,-26.5C53.993,-26.5 121.5804,-26.5 121.5804,-26.5 127.5804,-26.5 133.5804,-32.5 133.5804,-38.5 133.5804,-38.5 133.5804,-64.1 133.5804,-64.1 133.5804,-70.1 127.5804,-76.1 121.5804,-76.1 121.5804,-76.1 53.993,-76.1 53.993,-76.1 47.993,-76.1 41.993,-70.1 41.993,-64.1 41.993,-64.1 41.993,-38.5 41.993,-38.5 41.993,-32.5 47.993,-26.5 53.993,-26.5"></path>
-<text text-anchor="middle" x="87.7867" y="-59.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">cd-theme</text>
-<polyline fill="none" stroke="#add8e6" points="41.993,-51.3 133.5804,-51.3 "></polyline>
-<text text-anchor="middle" x="87.7867" y="-34.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">wordpress</text>
+<path fill="#add8e6" stroke="#add8e6" d="M53.993,-11.5C53.993,-11.5 121.5804,-11.5 121.5804,-11.5 127.5804,-11.5 133.5804,-17.5 133.5804,-23.5 133.5804,-23.5 133.5804,-49.1 133.5804,-49.1 133.5804,-55.1 127.5804,-61.1 121.5804,-61.1 121.5804,-61.1 53.993,-61.1 53.993,-61.1 47.993,-61.1 41.993,-55.1 41.993,-49.1 41.993,-49.1 41.993,-23.5 41.993,-23.5 41.993,-17.5 47.993,-11.5 53.993,-11.5"></path>
+<text text-anchor="middle" x="87.7867" y="-44.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">cd-theme</text>
+<polyline fill="none" stroke="#add8e6" points="41.993,-36.3 133.5804,-36.3 "></polyline>
+<text text-anchor="middle" x="87.7867" y="-19.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">wordpress</text>
 </g>
 <!-- wordpress&#45;&gt;zen -->
-<g id="edge27" class="edge">
+<g id="edge22" class="edge">
 <title>wordpress-&gt;zen</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M126.7851,-76.1147C143.8674,-88.7176 162.8725,-105.3712 175.5734,-124.3 237.6387,-216.7991 265.3196,-347.3228 276.2844,-416.6614"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="272.87,-417.4876 277.8432,-426.8427 279.7894,-416.4281 272.87,-417.4876"></polygon>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M112.6458,-61.2405C132.5493,-82.6025 159.6806,-115.0962 175.5734,-148.3 243.1502,-289.4838 269.3992,-475.8322 278.407,-561.9409"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="274.9295,-562.3399 279.4217,-571.9352 281.8937,-561.6328 274.9295,-562.3399"></polygon>
 </g>
 <!-- wpdb -->
-<g id="node16" class="node">
+<g id="node20" class="node">
 <title>wpdb</title>
-<path fill="#ffff00" stroke="#ffff00" d="M1163.86,-.5C1163.86,-.5 1307.0348,-.5 1307.0348,-.5 1313.0348,-.5 1319.0348,-6.5 1319.0348,-12.5 1319.0348,-12.5 1319.0348,-38.1 1319.0348,-38.1 1319.0348,-44.1 1313.0348,-50.1 1307.0348,-50.1 1307.0348,-50.1 1163.86,-50.1 1163.86,-50.1 1157.86,-50.1 1151.86,-44.1 1151.86,-38.1 1151.86,-38.1 1151.86,-12.5 1151.86,-12.5 1151.86,-6.5 1157.86,-.5 1163.86,-.5"></path>
-<text text-anchor="middle" x="1235.4474" y="-33.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">Wordpress Database</text>
-<polyline fill="none" stroke="#ffff00" points="1151.86,-25.3 1319.0348,-25.3 "></polyline>
-<text text-anchor="middle" x="1235.4474" y="-8.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">mysql</text>
+<path fill="#ffff00" stroke="#ffff00" d="M1264.6432,-.5C1264.6432,-.5 1407.818,-.5 1407.818,-.5 1413.818,-.5 1419.818,-6.5 1419.818,-12.5 1419.818,-12.5 1419.818,-38.1 1419.818,-38.1 1419.818,-44.1 1413.818,-50.1 1407.818,-50.1 1407.818,-50.1 1264.6432,-50.1 1264.6432,-50.1 1258.6432,-50.1 1252.6432,-44.1 1252.6432,-38.1 1252.6432,-38.1 1252.6432,-12.5 1252.6432,-12.5 1252.6432,-6.5 1258.6432,-.5 1264.6432,-.5"></path>
+<text text-anchor="middle" x="1336.2306" y="-33.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">Wordpress Database</text>
+<polyline fill="none" stroke="#ffff00" points="1252.6432,-25.3 1419.818,-25.3 "></polyline>
+<text text-anchor="middle" x="1336.2306" y="-8.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">mysql</text>
 </g>
 <!-- wordpress&#45;&gt;wpdb -->
-<g id="edge28" class="edge">
+<g id="edge23" class="edge">
 <title>wordpress-&gt;wpdb</title>
-<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M133.7747,-46.1322C205.337,-38.5498 347.7292,-25.3 468.9405,-25.3 468.9405,-25.3 468.9405,-25.3 845.895,-25.3 946.8654,-25.3 1062.5571,-25.3 1141.4582,-25.3"></path>
-<polygon fill="#0000ff" stroke="#0000ff" points="1141.8586,-28.8001 1151.8585,-25.3 1141.8585,-21.8001 1141.8586,-28.8001"></polygon>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M133.7333,-34.2051C207.8064,-31.0135 358.2203,-25.3 485.7377,-25.3 485.7377,-25.3 485.7377,-25.3 950.8775,-25.3 1050.2793,-25.3 1164.1039,-25.3 1242.1263,-25.3"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="1242.4144,-28.8001 1252.4144,-25.3 1242.4144,-21.8001 1242.4144,-28.8001"></polygon>
+</g>
+<!-- openbadger -->
+<g id="node14" class="node">
+<title>openbadger</title>
+<path fill="#ffa500" stroke="#ffa500" d="M1467.818,-737.3C1467.818,-737.3 1619.3914,-737.3 1619.3914,-737.3 1625.3914,-737.3 1631.3914,-743.3 1631.3914,-749.3 1631.3914,-749.3 1631.3914,-761.3 1631.3914,-761.3 1631.3914,-767.3 1625.3914,-773.3 1619.3914,-773.3 1619.3914,-773.3 1467.818,-773.3 1467.818,-773.3 1461.818,-773.3 1455.818,-767.3 1455.818,-761.3 1455.818,-761.3 1455.818,-749.3 1455.818,-749.3 1455.818,-743.3 1461.818,-737.3 1467.818,-737.3"></path>
+<text text-anchor="middle" x="1543.6047" y="-751.2" font-family="Courier,monospace" font-size="14.00" fill="#000000">Mozilla open badger</text>
+</g>
+<!-- badgekit&#45;&gt;openbadger -->
+<g id="edge5" class="edge">
+<title>badgekit-&gt;openbadger</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M1411.684,-755.3C1422.5898,-755.3 1433.9467,-755.3 1445.2198,-755.3"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="1445.5338,-758.8001 1455.5337,-755.3 1445.5337,-751.8001 1445.5338,-758.8001"></polygon>
+</g>
+<!-- badgedb -->
+<g id="node21" class="node">
+<title>badgedb</title>
+<path fill="#ffff00" stroke="#ffff00" d="M1679.3914,-730.5C1679.3914,-730.5 1797.3704,-730.5 1797.3704,-730.5 1803.3704,-730.5 1809.3704,-736.5 1809.3704,-742.5 1809.3704,-742.5 1809.3704,-768.1 1809.3704,-768.1 1809.3704,-774.1 1803.3704,-780.1 1797.3704,-780.1 1797.3704,-780.1 1679.3914,-780.1 1679.3914,-780.1 1673.3914,-780.1 1667.3914,-774.1 1667.3914,-768.1 1667.3914,-768.1 1667.3914,-742.5 1667.3914,-742.5 1667.3914,-736.5 1673.3914,-730.5 1679.3914,-730.5"></path>
+<text text-anchor="middle" x="1738.3809" y="-763.5" font-family="Courier,monospace" font-size="14.00" fill="#000000">Badges Database</text>
+<polyline fill="none" stroke="#ffff00" points="1667.3914,-755.3 1809.3704,-755.3 "></polyline>
+<text text-anchor="middle" x="1738.3809" y="-738.7" font-family="Courier,monospace" font-size="14.00" fill="#000000">mysql</text>
+</g>
+<!-- openbadger&#45;&gt;badgedb -->
+<g id="edge6" class="edge">
+<title>openbadger-&gt;badgedb</title>
+<path fill="none" stroke="#0000ff" stroke-dasharray="5,2" d="M1631.5904,-755.3C1640.0478,-755.3 1648.6007,-755.3 1656.9907,-755.3"></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="1657.1266,-758.8001 1667.1266,-755.3 1657.1265,-751.8001 1657.1266,-758.8001"></polygon>
 </g>
 </g>
 </svg>

@@ -2,49 +2,18 @@
 
 ## CoderDojo System Architecture
 
-```graphviz
-digraph coderdojo {
-    # Style
-    rankdir=LR
-    nodesep=1.0;
-    node [color=green,fontname=Courier,shape=Mrecord,style=filled];
-    edge [color=Blue, style=dashed];
-
-    # Microservices
-    events[label="cp-events-service | seneca"]
-    dojos[label="cp-dojos-service | seneca"]
-    users[label="cp-users-service | seneca"]
-    badges[label="cp-badges-service | seneca"]
-    zen[label="cp-zen-platform | hapi | api"]
-    frontend2[label="cp-frontend | veu.js" color=lightblue]
-    frontend1[label="cp-zen-platform/web | angular 1" color=lightblue]
-    forumn[label="Forumn | nodebb" color=lightblue]
-    ninja[label="Ninja forumn | nodebb" color=lightblue]
-    badgekit[label="Mozilla badgekit" color=purple]
-    eventdb[label="Events Database | postgresql" color=purple]
-    dojodb[label="Dojos Database | postgresql" color=purple]
-    userdb[label="User Database | postgresql" color=purple]
-    queue[label="Message queue | redis" color=red]
-    wordpress[label="cd-theme | wordpress" color=lightblue]
-    wpdb[label="Wordpress Database | mysql" color=yellow]
-    forumndb[label="Forumn Database | redis" color=red]
-
-    # Connections
-    zen -> { events users dojos badges } [color=red];
-    badges -> { dojos events users badgekit }
-    { frontend1 frontend2 } -> zen
-    { ninja forumn } -> { zen forumndb }
-    users ->{ dojos badges userdb }
-    dojos -> { users events dojodb queue }
-    events -> { dojos badges users eventdb queue }
-    wordpress -> { zen wpdb }
-
-    {rank=same; userdb dojodb eventdb badgekit wpdb forumndb};
-    {rank=same; wordpress frontend1 frontend2 ninja forumn }
-}
-```
-
 ![network](./network.svg)
+
+All of the microservices are run in k8 with aws managing the postgresql, mysql, and redis databases.
+Wordpress is the exception to this as it an its mysql are run on a vps for legacy reason.
+
+##### Color Key
+  - Green => microservices
+  - light-blue => User Intercafes
+  - Purple => Postgresql DB
+  - Yellow => mysql DB
+  - Red => Redis DB
+  - Orange => Mozilla BadgeKit
 
 ## Public Facing
 
