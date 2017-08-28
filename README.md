@@ -10,5 +10,5 @@
 
 ## Resources
 
-[kubectl cheat sheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/)
-[kubectl for Docker Users](https://kubernetes.io/docs/user-guide/docker-cli-to-kubectl/)
+- [kubectl cheat sheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/)
+- [kubectl for Docker Users](https://kubernetes.io/docs/user-guide/docker-cli-to-kubectl/)
